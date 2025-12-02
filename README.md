@@ -4,9 +4,9 @@
 *UnnamedOS* starts as a minimalist bootloader that runs in real mode (BIOS).
 
 # Used programs
- Assembly x86
- NASM
- QEMU
+* Assembly x86
+* NASM
+* QEMU
 
 # Compilling the system 
     nasm -f bin boot.asm -o boot.img
