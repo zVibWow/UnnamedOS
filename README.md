@@ -2,7 +2,7 @@
 # About UnnamedOS
 *UnnamedOS* starts as a minimalist bootloader that runs in real mode (BIOS).
 
-# Website Statu
+# Website Status
 * Website status: Not working correctly.
 
 # Used programs
