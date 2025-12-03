@@ -1,0 +1,1 @@
+Hi, this Operational System has been fully created in Assembly, and is open-source.
