@@ -12,11 +12,5 @@
 * NASM
 * QEMU
 
-# Compilling the system 
-    nasm -f bin boot.asm -o boot.img
-
-# Execute on Qemu
-    qemu boot.img
-
 # Developer(s)
 *zVibWow - Idea and creator*
