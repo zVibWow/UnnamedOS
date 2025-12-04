@@ -3,9 +3,8 @@
 # About UnnamedOS
 *UnnamedOS* starts as a minimalist bootloader that runs in real mode (BIOS).
 
-# Website
-* Website status: Not working correctly.
-* Actual link: https://zvibwow.github.io/UnnamedOS/
+# Documentation Website status
+* Working
 
 # Used programs
 * Assembly x86
