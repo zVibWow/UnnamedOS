@@ -1,5 +1,5 @@
 ![UnnamedOS](https://github.com/zVibWow/UnnamedOS/blob/main/UnnamedOS.jpg?raw=true)
-[**Documentation**](https://zvibwow.github.io/UnnamedOS/) 
+[**Documentation**](https://zvibwow.github.io/UnnamedOS/)  [**Report a bug**](hhttps://github.com/zVibWow/UnnamedOS/issues)
 # About UnnamedOS
 *UnnamedOS* starts as a minimalist bootloader that runs in real mode (BIOS).
 
